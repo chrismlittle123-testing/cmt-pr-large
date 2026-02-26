@@ -1,2 +1,7 @@
 [metadata]
-tier = "prototype"
+tier = "internal"
+
+[process.pr]
+enabled = true
+max_files = 10
+max_lines = 200
